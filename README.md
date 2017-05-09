@@ -14,11 +14,10 @@ The InDesign file is intended to set brand design direction rather than as final
 
 The font family used is **Adobe Source Sans Pro**, available as a free download from [Font Squirrel](https://www.fontsquirrel.com/fonts/source-sans-pro) or via Adobe Creative Cloud font syncing at [Typekit](https://typekit.com/fonts/source-sans).
 
-![TRANSITion flyer front face](https://github.com/watershed/transition-a4-flyer/blob/master/design-preview/transition_A4-flyer_front.png)
-
-![TRANSITion flyer reverse face](https://github.com/watershed/transition-a4-flyer/blob/master/design-preview/transition_A4-flyer_back.png)
-
-
 [Read the design and InDesign guidance](https://gist.github.com/watershed/09817cfc93bf0307003f2677489c1734).
 
 [Download the artwork zip file](https://github.com/watershed/transition-a4-flyer/archive/master.zip).
+
+![TRANSITion flyer front face](https://github.com/watershed/transition-a4-flyer/blob/master/design-preview/transition_A4-flyer_front.png)
+
+![TRANSITion flyer reverse face](https://github.com/watershed/transition-a4-flyer/blob/master/design-preview/transition_A4-flyer_back.png)
