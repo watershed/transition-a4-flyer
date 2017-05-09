@@ -18,6 +18,16 @@ The font family used is **Adobe Source Sans Pro**, available as a free download 
 
 [Download the artwork zip file](https://github.com/watershed/transition-a4-flyer/archive/master.zip).
 
+## Design preview images
+
+The following images were last updated on 9 May 2017.
+
+Front face
+
 ![TRANSITion flyer front face](https://github.com/watershed/transition-a4-flyer/blob/master/design-preview/transition_A4-flyer_front.png)
+
+- - -
+
+Reverse face
 
 ![TRANSITion flyer reverse face](https://github.com/watershed/transition-a4-flyer/blob/master/design-preview/transition_A4-flyer_back.png)
