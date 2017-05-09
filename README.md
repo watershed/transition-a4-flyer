@@ -3,7 +3,7 @@
 The artwork is a 2 page Adobe InDesign CC2017 file with associated assets:
 
 * Project logo
-* Picure of people outside the Round About Café
+* Picture of people outside the Round About Café
 * Partner logos: 
     * NOW Heritage
     * Heritage Lottery
@@ -12,6 +12,6 @@ The artwork is a 2 page Adobe InDesign CC2017 file with associated assets:
 
 The InDesign file is intended to set brand design direction rather than as final artwork for print.
 
-The font family used is **Adobe Source Sans Pro** available as a free download from [Font Squirrel](https://www.fontsquirrel.com/fonts/source-sans-pro) or via Adobe Creative Cloud font syncing at [Typekit](https://typekit.com/fonts/source-sans).
+The font family used is **Adobe Source Sans Pro**, available as a free download from [Font Squirrel](https://www.fontsquirrel.com/fonts/source-sans-pro) or via Adobe Creative Cloud font syncing at [Typekit](https://typekit.com/fonts/source-sans).
 
-[Read the design and InDesign guidance](https://gist.github.com/watershed/09817cfc93bf0307003f2677489c1734)
+[Read the design and InDesign guidance](https://gist.github.com/watershed/09817cfc93bf0307003f2677489c1734).
